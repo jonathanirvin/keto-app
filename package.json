@@ -1,0 +1,26 @@
+{
+  "name": "keto-app",
+  "version": "1.0.0",
+  "description": "Keto app that uses React, Redux, Node.js, Socket.io, Styled Components?, unit testing, and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanirvin/keto-app.git"
+  },
+  "author": "Jonathan Irvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanirvin/keto-app/issues"
+  },
+  "homepage": "https://github.com/jonathanirvin/keto-app#readme",
+  "engines": {
+    "node": "6.11.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
