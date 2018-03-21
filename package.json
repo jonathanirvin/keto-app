@@ -1,7 +1,7 @@
 {
   "name": "keto-app",
   "version": "1.0.0",
-  "description": "Keto app that uses React, Redux, Node.js, Socket.io, Styled Components?, unit testing, and MongoDB",
+  "description": "Keto app that uses React, Redux, Node.js, Socket.io, Passport.js, Styled Components?, Material UI, unit testing, and MongoDB",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
